@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vitals_online_app/static/css/main.5f96ff93.css",
+    "main.js": "/vitals_online_app/static/js/main.a616580f.js",
+    "static/js/787.c6070207.chunk.js": "/vitals_online_app/static/js/787.c6070207.chunk.js",
+    "index.html": "/vitals_online_app/index.html",
+    "main.5f96ff93.css.map": "/vitals_online_app/static/css/main.5f96ff93.css.map",
+    "main.a616580f.js.map": "/vitals_online_app/static/js/main.a616580f.js.map",
+    "787.c6070207.chunk.js.map": "/vitals_online_app/static/js/787.c6070207.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f96ff93.css",
+    "static/js/main.a616580f.js"
+  ]
+}
