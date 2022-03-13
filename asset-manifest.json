@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vitals_online_app/static/css/main.195a267b.css",
-    "main.js": "/vitals_online_app/static/js/main.138e8169.js",
+    "main.css": "/vitals_online_app/static/css/main.8ce584a8.css",
+    "main.js": "/vitals_online_app/static/js/main.9a635400.js",
     "static/js/787.c6070207.chunk.js": "/vitals_online_app/static/js/787.c6070207.chunk.js",
     "index.html": "/vitals_online_app/index.html",
-    "main.195a267b.css.map": "/vitals_online_app/static/css/main.195a267b.css.map",
-    "main.138e8169.js.map": "/vitals_online_app/static/js/main.138e8169.js.map",
+    "main.8ce584a8.css.map": "/vitals_online_app/static/css/main.8ce584a8.css.map",
+    "main.9a635400.js.map": "/vitals_online_app/static/js/main.9a635400.js.map",
     "787.c6070207.chunk.js.map": "/vitals_online_app/static/js/787.c6070207.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.195a267b.css",
-    "static/js/main.138e8169.js"
+    "static/css/main.8ce584a8.css",
+    "static/js/main.9a635400.js"
   ]
 }
